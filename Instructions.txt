@@ -1,0 +1,32 @@
+These are the steps to enable the "Student Information System"
+
+Open the link via Visual Studio 
+Step 1: Click the link to see the Final Coding. (in Github)
+Step 2: Type the email and password to proceed to the next step.
+This is the email and password to log in
+Email : MA
+Password : sis123
+
+Step 3: Welcome to STUDENT INFORMATION SYSTEM and Select your choice like type 1 and enter (to select the Add Records).
+In Add Records,
+Type your student name
+Type your course
+and lastly type your section
+
+Step 4: Type 2 to see the List Records and you will see the list of students  you have entered.
+In List Records,
+You will see the student name and course and section of the student.
+
+Step 5: Type 3 to see Modify Records. 
+In Modify Records,
+You will type the student name and course and secion of the student if it really entered the record.
+
+Step 6: Type 4 to Delete Records.
+In Delete Records,
+You will type the student name and course and secion of the student to delete the record of the student's info.
+
+Last Step : Type 5 to Exit Program.
+
+You can select any number you want from 1 to 5.
+
+Thank you !
